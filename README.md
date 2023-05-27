@@ -1,4 +1,5 @@
 # MICROSOFT MOVIE STUDIO FILMS ANALYSIS.
+![Microsoft](https://github.com/ngeny-brian/phase1-project/assets/133016482/d6a3d9be-38ee-4375-aa0a-54063b8834be)
 
 **Author: Brian Kipruto Ngeny.**
 
@@ -67,7 +68,9 @@ This project uses exploratory data analysis, including statistical data value an
 ## Results.
 1. The statistical values for the data provided on the production budgets, domestic gross and worldwide gross are as follows:
 > a). The average amount for the production budget of a movie is 31,587,757 dollars. The lowest amount on record is 1,100 dollars and the highest amount on record is 425,000,000 dollars.
+> 
 > b). The average amount for the domestic gross of a movie is 41,873,326 dollars. The lowest amount on record is 0 dollars and the highest amount on record is 936,662,225 dollars.
+> 
 > c). The average amount for the worldwide gross of a movie is 91,487,460 dollars. The lowest amount on record is 0 dollars and the highest amount on record is 2,776,345,279 dollars.
 
 2. There is no corelation between popularity and rating as evidenced by the scatter plot displayed below:
