@@ -77,7 +77,7 @@ This project uses exploratory data analysis, including statistical data value an
 ![linegraph](https://github.com/ngeny-brian/phase1-project/assets/133016482/d9ead41c-58ac-41da-a033-fd475590d133)
 
 
-4. Among the top ten most profitable genres, Adventure, Drama, Sci-Fi, Comedy and Action movies are the most featured as evidenced below:
+4. The top ten most profitable genres are; Adventure, Drama, Sci-Fi, Comedy and Action movies as evidenced below:
 ![stripplot](https://github.com/ngeny-brian/phase1-project/assets/133016482/5a5df1cf-11de-4b71-8912-80b50e705bd7)
 
 
