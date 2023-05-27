@@ -71,13 +71,14 @@ This project uses exploratory data analysis, including statistical data value an
 > c). The average amount for the worldwide gross of a movie is 91,487,460 dollars. The lowest amount on record is 0 dollars and the highest amount on record is 2,776,345,279 dollars.
 
 2. There is no corelation between popularity and rating as evidenced by the scatter plot displayed below:
-![scatterplot.png](/images/scatterplot.png)
+![scatterplot](https://github.com/ngeny-brian/phase1-project/assets/133016482/faf97869-6a14-4b63-ace2-6e461fd6e855)
 
 3. There is however a close relationship between the rating of a movie and the gross revenue it generates as shown below:
-![lineplot.png](/images/lineplot.png)
+![linegraph](https://github.com/ngeny-brian/phase1-project/assets/133016482/d9ead41c-58ac-41da-a033-fd475590d133)
+
 
 4. Among the top ten most profitable genres, Adventure, Drama, Sci-Fi, Comedy and Action movies are the most featured as evidenced below:
-![stripplot.png](/images/stripplot.png)
+![stripplot](https://github.com/ngeny-brian/phase1-project/assets/133016482/5a5df1cf-11de-4b71-8912-80b50e705bd7)
 
 
 ## Conclusions.
